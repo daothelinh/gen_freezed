@@ -17,7 +17,7 @@ void main() {
 }
 
 const errorString = "Can't parse JSON";
-final Uri _url = Uri.parse('https://fb.com/tungakanuiii');
+final Uri _url = Uri.parse('https://www.facebook.com/dtl04/');
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
